@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ik ga voor de blauwe piste, coderen is namelijk niet mijn skerkste vaardigheid.
 
   #### Je focus:
-  Resonsive
+  Surface plane
  
 </details>
 
@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://www.heineken.com/nl/nl/home/)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
