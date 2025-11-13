@@ -39,12 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 https://www.heineken.com/nl/nl/home/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  **Home**
+  Home
   
   <img src="readme-images/Screenshot_20251113-160122_Chrome.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-**Ons verhaal**
+Ons verhaal
 
 <img src="readme-images/Screenshot_20251113-160134_Chrome.jpg" width="375px" alt="omschrijving van de pagina">
  
