@@ -58,7 +58,11 @@ Ons verhaal
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+Lijst met je bevindingen die in de test naar voren kwamen: Starbucks gebruikt H5 whitespace NL = talen Registered sign
+
+ook tijdens het verifyen van de html kwamen er heel veel errors. Maar voor de rest qua toegankelijkheid naast een paar kleine dingen was het goed alle koppen waar goed genoemt behalve die white space die een h5 had.
+
+Koppen layout goed
 
 </details>
 
