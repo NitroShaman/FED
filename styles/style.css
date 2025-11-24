@@ -8,8 +8,6 @@
 
 
 
-
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
@@ -28,4 +26,84 @@
 /****************/
 
 /* jouw code */
+@font-face {
+    font-family:Heineken;
+    src: url('./fonts/heineken-core-bold.ttf');
+}
 
+
+
+.visually-hidden {
+clip:rect(0 0 0 0);
+clip-path: inset(50%);
+height: 1px;
+overflow: hidden;
+position: absolute;
+white-space: nowrap;
+width: 1px;
+
+
+}
+
+header {
+display:flex;
+justify-content: space-between;
+align-items:center;
+
+position: sticky;
+top: 0;
+color: #ffff;
+
+}
+
+nav button {
+position:relative;
+z-index: 1;
+
+
+}
+
+nav ul {
+/* order: 1; */
+position: fixed;
+
+top:0; 
+bottom:0;
+left:0;
+right:0;
+translate: 100% 0;
+transition: 0.4s;
+background-color: #13410B;
+
+}
+
+nav.is-open ul{
+translate: 0 0;
+
+
+}
+
+header img {
+	max-width: 2em;
+	max-height: 2em;
+	
+}
+
+button {
+	margin-left: 22em;
+
+}
+
+
+main button {
+position:fixed;
+translate: 53em 13em;
+z-index:10; 
+
+}
+
+#heinekenafb1 {
+position: relative;
+top: 1em;
+
+}
