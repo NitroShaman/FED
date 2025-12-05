@@ -1,12 +1,14 @@
 // JavaScript Document
 console.log("hi");
 
-const menuButton = document.querySelector("header button");
+const menuOpenButton = document.querySelector("header > button");
+const menuCloseButton = document.querySelector("header > nav button");
 const deNav = document.querySelector("header nav");
 
-menuButton.onclick = toggleMenu;
+menuOpenButton.onclick = toggleMenu;
+menuCloseButton.onclick = toggleMenu;
+
+
 function toggleMenu () {
-
-deNav.classList.toggle("is-open");
-
+    deNav.classList.toggle("is-open");
 }
