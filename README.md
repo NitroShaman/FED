@@ -97,7 +97,7 @@ Moet nog veel gebeuren waaronder een breakdown schets.
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+Samen met je groepje opstellen
 
 Manon
 
@@ -107,12 +107,15 @@ Manon
 - Border om afbeelding heen zetten.
 - Footer einde
 - Tekst in button een kleur geven
+
 Gloria
 
 - Ze wil wat vragen over het menu en over dingen aanroepen met css.
+
 Bob
 
 - Hij wil vragen hoe je automatische animaties makkelijk in de website kan maken.
+
 Rosa
 
 - Ze wil iets vragen over javascript.
