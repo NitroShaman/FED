@@ -93,26 +93,39 @@ Moet nog veel gebeuren waaronder een breakdown schets.
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code) 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Manon
+
+- In css dingen aanroepen. Wat je het beste voor elk ding kan gebruiken. (lnt-of-type() etc).
+- Afbeeldingen uit een section kleiner maken als andere afbeeldingen, dan gewoon classes gebruiken?
+- Font van de website in je code zetten?
+- Border om afbeelding heen zetten.
+- Footer einde
+- Tekst in button een kleur geven
+Gloria
+
+- Ze wil wat vragen over het menu en over dingen aanroepen met css.
+Bob
+
+- Hij wil vragen hoe je automatische animaties makkelijk in de website kan maken.
+Rosa
+
+- Ze wil iets vragen over javascript.
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+hier na afloop snel de uitkomsten van de meeting vastleggen. We hebben deze week het gesprek samen met de studentassistenten gehad.
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Ik moet betere alt teksten neerzetten. Ik moet het aan de hand van een zin uitleggen. Ik zou hiervoor ook chatGPT mogen gebruiken.
+Mijn code is al goed ingesprongen en ik was daarmee ook lekker bezig.
+Ik moet opletten dat ik geen buttons gebruik in plaats van links. Ik moet proberen buttons echt te gebruiken voor de dingen die op mijn pagina komen, zoals iwnkelwagen en misschien een andere pop-up. Als je naar een andere pagina wordt doorverwezen is het altijd een link. Dit moet ik dus nog even goed bekijken en aanpassen.
+Als ik dan dit linkje een kleur wil geven dan kan ik background-color: black: color: white; gebruiken.
+Ik gebruik heel veel li elementen, omdat dat dan n iet semantisch genoeg is kan ik soms beter article er nog tussen zetten. Dus: section - ul - li - article etc, wat er dan allemaal in staat.
 
 </details>
 
