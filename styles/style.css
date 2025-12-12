@@ -95,9 +95,6 @@ main button {
 #heinekenafterwork,
 #eersteslok,
 #zwartwitheineken,
-#heinekenbiertje,
-#heineken00fles,
-#heinekensilver,
 #facebooklogo,
 #instagramlogo,
 #youtubelogo,
@@ -109,6 +106,41 @@ main button {
   margin: 1em 0;
 }
 
+
+
+#heinekenbiertje {
+  width: 80%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em 0;
+
+}
+
+
+#heinekensilver {
+  width: 80%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em 0;
+
+}
+
+
+#heineken00fles {
+  width: 80%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em 0;
+
+}
+
+
+
+
+
 #bierbrouwerij {
   width: 100%;
   max-width: 100;
@@ -118,6 +150,9 @@ main button {
 
 
 }
+
+
+
 
 
 
@@ -223,7 +258,7 @@ footer {
   
 } */
 
-section:nth-of-type(1)ul{
+section:nth-of-type(1) ul{
 
 position: relative;
 display:flex;
@@ -248,7 +283,7 @@ section:nth-of-type(1)ul{
 
 }
 
-section:nth-of-type(1)li{
+section:nth-of-type(1) li{
 position: absolute;
 flex-basis:100%;
 flex-shrink:0;
@@ -256,7 +291,7 @@ scroll-snap-align:center;
 }
 
 
-section:nth-of-type(2)li{
+section:nth-of-type(2) li{ 
 position: absolute;
 flex-basis:100%;
 flex-shrink:0;
@@ -264,7 +299,7 @@ scroll-snap-align:center;
 }
 
 
-section:nth-of-type(3)li{
+section:nth-of-type(3) li{
 position: absolute;
 flex-basis:100%;
 flex-shrink:0;
@@ -272,7 +307,64 @@ scroll-snap-align:center;
 }
 
 
+.producten {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5em;
+  padding: 1em;
+}
 
+.product {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5em;
+}
+
+
+@media (max-width: 600px) {
+  .product {
+    flex-direction: row;       
+    align-items: center;
+    justify-content: space-between;
+    gap: 1em;
+  }
+
+  .product-tekst {
+    flex: 1;
+    max-width: none;
+  }
+
+  .product img {
+    width: 35%;
+    max-width: 140px;     
+    margin: 0;
+  }
+}
+
+#hetorigineel
+
+{  font-size: 2rem;              /* groter */
+  color: #00843D;               /* Heineken-groen */
+  font-family: Heineken, sans-serif;
+  margin-bottom: 0.5em;
+}
+
+#heineken00biertje
+{
+ font-size: 2rem;              /* groter */
+  color: #1B4677;               /* Heineken-groen */
+  font-family: Heineken, sans-serif;
+  margin-bottom: 0.5em;
+}
+
+#heinekensilverblik{
+
+ font-size: 2rem;              /* groter */
+  color: #646464;               /* Heineken-groen */
+  font-family: Heineken, sans-serif;
+  margin-bottom: 0.5em;
+}
 
 
 
